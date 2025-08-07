@@ -1,4 +1,4 @@
-#AI-Question Bank Generator
+# Exam Question Bank Generator
 
 A web application that generates exam question banks using the ChatGPT API based on uploaded reference materials and syllabus.
 
